@@ -6,15 +6,19 @@ public class Main {
         System.out.println("Hello World!");
         jurga();
         Inta();
-
+        jelena();
     }
 
     static void jurga() {
         System.out.println("Jurga says Hello World!");
     }
 
-    public static void Inta (){
+    public static void Inta() {
         System.out.println("Inta says Hello World!");
+    }
+
+    public static void jelena() {
+        System.out.println("Jelena says Hello World!");
     }
 
 }
